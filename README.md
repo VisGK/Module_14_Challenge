@@ -1,3 +1,4 @@
+note the code is in machine_learning_trading_bot.ipynb.
 # Module_14_Challenge
 ## Initial Training data perion of 3 months
 ## Baseline Model Results
